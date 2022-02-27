@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the Lord Gen: Blake, commander in chief of the Parliaments navy at sea; against the Lord Admiral Vantrump, Lieutenant-General for the States of Holland. With the manner of their engagement; the particulars of the fight on Sunday last upon the Dutch-Coast; the number of ships sunk, fir'd, and taken; the beating of the Hollanders into their harbors; and Generall Blakes resolution to fall in upon them with fire and sword. Likewise, the Dutch-mens new oath and protestation, to fight it out to the last man; the shipping of their land-forces; the double manning of their navy; a perfect list of the English fleet; and the Royal Soveraign putting forth to sea for their assistance. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85635</idno>
+            <idno type="STC">Wing G1774</idno>
+            <idno type="STC">Thomason E669_1</idno>
+            <idno type="STC">ESTC R207011</idno>
+            <idno type="EEBO-CITATION">99866088</idno>
+            <idno type="PROQUEST">99866088</idno>
+            <idno type="VID">118349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118349)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the Lord Gen: Blake, commander in chief of the Parliaments navy at sea; against the Lord Admiral Vantrump, Lieutenant-General for the States of Holland. With the manner of their engagement; the particulars of the fight on Sunday last upon the Dutch-Coast; the number of ships sunk, fir'd, and taken; the beating of the Hollanders into their harbors; and Generall Blakes resolution to fall in upon them with fire and sword. Likewise, the Dutch-mens new oath and protestation, to fight it out to the last man; the shipping of their land-forces; the double manning of their navy; a perfect list of the English fleet; and the Royal Soveraign putting forth to sea for their assistance. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118349:1" rendition="simple:additions"/>
+            <p>A Great VICTORY OBTAINED By his Excellency the Lord Gen: BLAKE, Commander in chief of the Parliaments Navy at Sea; againſt the Lord Admiral Vantrump, Lieutenant-General for the States of Holland.</p>
+            <p>With the manner of their Engagement; the particulars of the Fight on Sunday laſt up<g ref="char:EOLhyphen"/>on the Dutch-Coaſt; the number of ſhips ſunk, fir'd, and taken; the beating of the Hollan<g ref="char:EOLhyphen"/>ders into their Harbors; and Generall Blakes Reſolution to fall in upon them with fire and ſword.</p>
+            <p>Likewiſe, the Dutch-mens new Oath and Proteſtation, to fight it out to the laſt man; the ſhipping of their Land-forces; the double man<g ref="char:EOLhyphen"/>ning of their Navy; a perfect Liſt of the Engliſh Fleet; and the Royal Soveraign putting forth to Sea for their aſſiſtance.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118349:2"/>
+            <pb n="3" facs="tcp:118349:2"/>
+            <head>Another bloudy Fight at Sea between the Engliſh and the Dutch upon the Coaſt of Holland: With the deſperate aſſail<g ref="char:EOLhyphen"/>ing of Vantrump, by Gen. Blake; the boarding of the Flemmins; the diſperſing of the Navy; and the re-inforcing of di<g ref="char:EOLhyphen"/>vers gallant ſhips into their Harbors.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N Thurſday being the 25 of this inſtant June, 1652. His Excellency Generall Blake weighed anchor with ſixty four Men of War; and having double man'd each ſhip, hoyſted ſayl about eight of the clock in the forenoon, to find out Vantrump; and (accord<g ref="char:EOLhyphen"/>ing to his Commiſſion, and Inſtructions, to fight
+<pb n="4" facs="tcp:118349:3"/>him: The whole Fleet being upon their motion, his Excellency gave Orders to Captain Holland, and Captain Mooton, to ſcout forth with their two Fri<g ref="char:EOLhyphen"/>gats, the Star and Signet; but they had not ſailed many leagues, before they made a diſcovery of cer<g ref="char:EOLhyphen"/>tain Hollanders; and bearing up to them, the reſt of our Fleet being about a league diſtance, Captain Holland gave them abroad ſide with ten Guns: the Dutch-men anſwer'd him with the like ſalute: No ſooner had they exchanged four broad ſides, but im<g ref="char:EOLhyphen"/>mediatly came up the Star-Frigat, preſenting them with ſeven broad ſides one after another: and com<g ref="char:EOLhyphen"/>ing to grapling, the musketiers on both ſides, main<g ref="char:EOLhyphen"/>tained the Diſpute with great gallantry and reſolu<g ref="char:EOLhyphen"/>tion; till at laſt, the Engliſh Red-coats, conſiſting of Col. Ingoldsbys Regiment of Foot, plaid ſo faſt up<g ref="char:EOLhyphen"/>on them with ſmall ſhot and hand-granadoes, that they ſoon cleered the Decks, fired the Miſle and Main-ſail; and afterwards boarded two of the Hol<g ref="char:EOLhyphen"/>landers, killing 47, and ſurprized about one hundred and twenty: Many there were that leapt out of the Port-holes into the Sea, and drowned themſelves, by reaſon that they bid defiance to the Engliſh, and choſe rather to ſacrifice their lives in the mercileſs Ocean, then yield obedience unto them. The reſt of the Hollanders, being eleven in number, after a ſharp
+<pb n="5" facs="tcp:118349:3"/>conflict, declined Engagement, and ſtruck into their Harbors: This ſudden Onſet hath cauſed Vantrump to call in ſeveral Squadrons; to the end, that his Fleet may be in an intire poſture to receive the Enemy: Gen. Blake with his whole Navy lies about New<g ref="char:EOLhyphen"/>port point, within three leagues of the Dutch; and on Sunday laſt we hear that they fought; a Liſt of the Engliſh ſhips that engaged I have ſent you here incloſed, viz.</p>
+            <p>
+               <list>
+                  <head>A Liſt of the Parliaments Fleet now upon the Coaſt of Holland, engaged with Vantrump.</head>
+                  <item>Reſolution, J. Blake, Ge<g ref="char:EOLhyphen"/>neral of the Navy, 68 pieces of Ordnance, &amp; man'd with 800 Sea<g ref="char:EOLhyphen"/>men and ſouldiers.</item>
+                  <item>James, Captain William Pen, Vice-Admiral, 60 Guns, and 700 men.</item>
+                  <item>Andrew, Major Bourn, Rear-Admirall, 700 men, and 60 Guns.</item>
+                  <item>Tryumph, Capt. Blake, 68 Guns.</item>
+                  <item>Victory, Captain Man, 60 Guns.</item>
+                  <item>Rainbow, Sir G. Ayſcue 60 Guns</item>
+                  <item>Fairfax, Cap. Lawſon, 62 Guns.</item>
+                  <item>Speaker, Capt. Coppin, 62 Guns</item>
+                  <item>Garland, Capt. Osburn, 48 Guns.</item>
+                  <pb n="6" facs="tcp:118349:4"/>
+                  <item>Diamond. 42 Guns.</item>
+                  <item>Rubey. 42 Guns.</item>
+                  <item>Worceſter, capt. Young, 42 Guns.</item>
+                  <item>Dragon, captain Stokes, 42 Guns.</item>
+                  <item>Tyger, captain Peacock, 40 Guns.</item>
+                  <item>Adventure, captain Ball, 40 Guns.</item>
+                  <item>Aſſurance, captain Sanders 40 Guns.</item>
+                  <item>Saphire, captain Moulton, 30 Guns.</item>
+                  <item>Nightingale, captain Rey<g ref="char:EOLhyphen"/>nolds, 26 guns</item>
+                  <item>Maremaid, capt. Staynard,</item>
+                  <item>Convertine, 46 guns</item>
+                  <item>Convert, 24 guns</item>
+                  <item>Star, captain Moulton, 24 guns.</item>
+                  <item>Signet, captain Holland, 24 guns.</item>
+                  <item>Old-Warwick, 28 guns.</item>
+                  <item>Revenge, 36 guns.</item>
+                  <item>Thunder-Frigat 22 guns.</item>
+                  <item>Senturion, 40 guns.</item>
+                  <item>Primroſe 14 guns.</item>
+                  <item>WeymoutL 14 guns.</item>
+                  <item>Lilly 12 guns.</item>
+                  <item>Vanguard 46 guns.</item>
+                  <item>Portſmouth Frigat, 46 guns.</item>
+                  <item>Nonſuch, 40 guns.</item>
+                  <item>Pellican, captain Jorden, 42 guns.</item>
+                  <item>Foreſight. 42 guns.</item>
+                  <item>Lyon 42 guns.</item>
+                  <item>The ten Whelps, thirty guns in each.</item>
+                  <item>Marchants ſhips.</item>
+                  <item>Hannibal, capt. Tatum. 32 guns.</item>
+                  <item>Proſperous 40 guns.</item>
+                  <item>Hercules 34 guns</item>
+                  <item>Charles 32 guns</item>
+                  <item>Giles 32 guns</item>
+                  <item>Society 40 guns</item>
+                  <item>Elizabeth 40 guns</item>
+                  <item>London-Mary 40 guns</item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:118349:4"/>
+            <p>Theſe have been deeply engaged in the Commonwealths ſervice; and have deport<g ref="char:EOLhyphen"/>ed themſelves with ſingular dexterity a<g ref="char:EOLhyphen"/>gainſt Van-Trump, who, after a bloudy &amp; great engagement, was enforced to decline, and get off, to the protection of their Forts and Sconces; but not without great loſs, for we have received advertiſements, that Gen. Blake hath taken ſeven, ſunk two, and fired three, with the loſs of one ſhip. Van<g ref="char:EOLhyphen"/>trump is preparing for another engagement and ſhipping from ſeveral Ports and towns are coming to him: He hath alſo double man'd his ſhips, both with Sea-men and Land-men, who hath taken an Oath and Proteſtation to live and die together, and to fight it out to the laſt man.</p>
+            <p>The General hath ſent for ſix more fire<g ref="char:EOLhyphen"/>ſhips out of the Downs, and is reſolved to fire and deſtroy the Enemy in their Har<g ref="char:EOLhyphen"/>bors,
+<pb n="8" facs="tcp:118349:5"/>if they wil not come out to fight him at ſea. We have a ſquadron of ſhips lies ſcouting up and down the Channel in ſeve<g ref="char:EOLhyphen"/>ral places; and often way lay the Holland<g ref="char:EOLhyphen"/>ers. The Royal soveraign, alias the Com<g ref="char:EOLhyphen"/>monwealth, is putting forth to ſea, being new cork'd, tallow'd, and rig'd: ſhe is taken one deck lower; and hath one hundred braſs Guns in her: ſhe is an excellent ſwift ſayler, notwithſtanding the greatneſs of her burthen, and carrieth fourteen hundred men.</p>
+            <closer>
+               <dateline>From Dover, <date>June 30. 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118349:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
